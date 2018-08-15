@@ -263,3 +263,19 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 .align-description{
 	text-align: justify;
 }
+
+.hire-me{
+	margin-top: 14px;
+	color: #FFA600;
+	background: inherit;
+	font-size: 20px;
+}
+
+.hire-me:hover{
+	color: #FFA600;
+	cursor: pointer;
+}
+
+.hire-me:visited{
+	color: #FFA600 !important;
+}
